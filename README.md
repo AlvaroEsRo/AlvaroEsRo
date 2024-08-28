@@ -5,6 +5,8 @@
 - 📫 You can reach me through LinkedIn: in/alvaroesro
 - ⚡ Fun fact: Ever since I was a child, I’ve been passionate about solving problems and always dreamed of becoming an engineer.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alvaroesro)
+
 <!---
 AlvaroEsRo/AlvaroEsRo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
