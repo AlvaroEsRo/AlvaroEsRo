@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlvaroEsRo
 - 👀 I’m interested in telecommunications, technology, and innovation.
-- 🌱 I’m currently learning how to become a great engineer.
 - 💼 I’m looking to collaborate on telecommunications projects where I can make a meaningful contribution.
 - ⚡ Fun fact: Ever since I was a child, I’ve been passionate about solving problems and always dreamed of becoming an engineer.
 
