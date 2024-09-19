@@ -11,8 +11,7 @@ Hi, I’m **@AlvaroEsRo**, a passionate **Telecommunications Engineer** with a d
 ## 🌐 Connect With Me
 Feel free to reach out on LinkedIn!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alvaroesro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaroesro)
 
----
 
-> "Technology is best when it brings people together." – Matt Mullenweg
+
