@@ -12,6 +12,6 @@ Hi, I’m **@AlvaroEsRo**, a passionate **Telecommunications Engineer** with a d
 Feel free to reach out on LinkedIn!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaroesro)
-[![Download CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge)](https://github.com/AlvaroEsRo/Resume/raw/main/RESUME_ALVARO_ESTEVEZ.pdf)
+[![Download CV](https://img.shields.io/badge/CV-Download-brightgreen?style=for-the-badge)](https://github.com/AlvaroEsRo/Resume/raw/main/Resume_Alvaro_Estevez.pdf)
 
 
